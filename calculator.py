@@ -1,4 +1,4 @@
-
+#This is an extremely easy starter code to do in python and it is perfect to learn when you are trying to start python.
 
 def divisionTime() :
     xd = "Enter your first number"
