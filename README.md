@@ -1,6 +1,1 @@
-- 👋 Hi, I’m @WonderfulYouTube
-- 👀 I’m interested in Gaming and making YouTube videos
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on PewDiePie
-- 📫 Reach me on twitter.com/WonderfulRBX
-
+Hello there! I am learning python as of right now, and I'm going to upload all my progress and starting code over here so you know what order you can learn in! Credits to my friend Alan for getting me kickstarted and also teaching me the basics.
